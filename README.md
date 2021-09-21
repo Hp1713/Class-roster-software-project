@@ -1,4 +1,4 @@
-# Class-roster-software-project
+# Class-roster-software-project Team Project
 
 SDSU-CS496 Class Roster Software
 
